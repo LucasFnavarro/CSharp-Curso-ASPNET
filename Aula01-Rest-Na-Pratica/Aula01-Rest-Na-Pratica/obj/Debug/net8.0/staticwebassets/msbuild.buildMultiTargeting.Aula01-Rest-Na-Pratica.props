@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aula01-Rest-Na-Pratica.props" />
+</Project>
