@@ -1,0 +1,6 @@
+@Aula02_Rest_Na_Pratica_HostAddress = http://localhost:5211
+
+GET {{Aula02_Rest_Na_Pratica_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
