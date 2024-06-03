@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\Estudos-CSharp-Prof-LeandroCosta-ASPNET\\AspNet-Estudos-Curso-Solo\\Aula02-Rest-Na-Pratica\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6838A2-DC56-4682-A46D-F94E4C5ADB1B}|Aula02-Rest-Na-Pratica.csproj|c:\\users\\administrador\\source\\repos\\estudos-csharp-prof-leandrocosta-aspnet\\aspnet-estudos-curso-solo\\aula02-rest-na-pratica\\services\\implementations\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6838A2-DC56-4682-A46D-F94E4C5ADB1B}|Aula02-Rest-Na-Pratica.csproj|solutionrelative:services\\implementations\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6838A2-DC56-4682-A46D-F94E4C5ADB1B}|Aula02-Rest-Na-Pratica.csproj|c:\\users\\administrador\\source\\repos\\estudos-csharp-prof-leandrocosta-aspnet\\aspnet-estudos-curso-solo\\aula02-rest-na-pratica\\services\\implementations\\personserviceimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6838A2-DC56-4682-A46D-F94E4C5ADB1B}|Aula02-Rest-Na-Pratica.csproj|solutionrelative:services\\implementations\\personserviceimplementations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B6838A2-DC56-4682-A46D-F94E4C5ADB1B}|Aula02-Rest-Na-Pratica.csproj|c:\\users\\administrador\\source\\repos\\estudos-csharp-prof-leandrocosta-aspnet\\aspnet-estudos-curso-solo\\aula02-rest-na-pratica\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B6838A2-DC56-4682-A46D-F94E4C5ADB1B}|Aula02-Rest-Na-Pratica.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Estudos-CSharp-Prof-LeandroCosta-ASPNET\\AspNet-Estudos-Curso-Solo\\Aula02-Rest-Na-Pratica\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Estudos-CSharp-Prof-LeandroCosta-ASPNET\\AspNet-Estudos-Curso-Solo\\Aula02-Rest-Na-Pratica\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Controllers\\PersonController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:30:39.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonServiceImplementations.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Estudos-CSharp-Prof-LeandroCosta-ASPNET\\AspNet-Estudos-Curso-Solo\\Aula02-Rest-Na-Pratica\\Services\\Implementations\\PersonServiceImplementations.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\PersonServiceImplementations.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Estudos-CSharp-Prof-LeandroCosta-ASPNET\\AspNet-Estudos-Curso-Solo\\Aula02-Rest-Na-Pratica\\Services\\Implementations\\PersonServiceImplementations.cs",
+              "RelativeToolTip": "Services\\Implementations\\PersonServiceImplementations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:29:30.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\Estudos-CSharp-Prof-LeandroCosta-ASPNET\\AspNet-Estudos-Curso-Solo\\Aula02-Rest-Na-Pratica\\Services\\Implementations\\IPersonService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\Estudos-CSharp-Prof-LeandroCosta-ASPNET\\AspNet-Estudos-Curso-Solo\\Aula02-Rest-Na-Pratica\\Services\\Implementations\\IPersonService.cs",
+              "RelativeToolTip": "Services\\Implementations\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:04:48.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -4,7 +4,6 @@ namespace Aula02_Rest_Na_Pratica.Services.Implementations
 {
     public class PersonServiceImplementations : IPersonService
     {
-
         public volatile int count;
 
         public Person Create(Person person)
@@ -12,9 +11,9 @@ namespace Aula02_Rest_Na_Pratica.Services.Implementations
             return person;
         }
 
-        public void Delete(Person person)
+        public void Delete(long id)
         {
-            
+            // Lógica de delete aqui
         }
 
         public List<Person> FindAll()
@@ -65,9 +64,5 @@ namespace Aula02_Rest_Na_Pratica.Services.Implementations
             return Interlocked.Increment(ref count);
         }
 
-        public void Delete(long id)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
